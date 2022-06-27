@@ -4,7 +4,7 @@ The Canon printer which is one of the preferred printers is also popular for pho
 
 <b>Why Choose Ij.start.canon?</b>
 
-<br<1.To get the latest and updated drivers for all your ** Canon printer** models.</br>
+<br>1.To get the latest and updated drivers for all your ** Canon printer** models.</br>
 
 2.All the printers are very fast and reliable.
 
