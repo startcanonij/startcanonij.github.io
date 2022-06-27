@@ -3,6 +3,7 @@
 The Canon printer which is one of the preferred printers is also popular for photo printing. ij.start.canon is the best-selling printer; it is impossible to beat Canon if we talk about quality products. In this article, I will be mentioned you how to install a Canon printer on Windows and Mac computers.
 
 <b>Why Choose Ij.start.canon?</b>
+
 1.To get the latest and updated drivers for all your ** Canon printer** models.
 
 2.All the printers are very fast and reliable.
@@ -42,7 +43,9 @@ Click the Manual Selection option.
 
 Restart your computer to conclude the canon printer driver installation.
 
+
 <b>How To Print On Mac - ij.start.canon</b>
+
 
 Firstly, turn on the Canon Printer.
 
