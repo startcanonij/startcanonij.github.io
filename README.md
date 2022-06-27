@@ -17,6 +17,7 @@ The Canon printer which is one of the preferred printers is also popular for pho
 6.On this website, you will get all Canon printers model drivers.
 
 <b>Install canon printer setup</b>
+
 To start with the installation procedure, power off the Canon printer.
 
 Now, start the installer on your computer.
