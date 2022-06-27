@@ -8,7 +8,7 @@ The Canon printer which is one of the preferred printers is also popular for pho
 
 2.All the printers are very fast and reliable.
 
-3.It is very easy to set up a canon printer by visiting ij.start.canon official website.
+3.It is very easy to set up a canon printer by visiting <a href="https://startcanonij.github.io/">ij.start.canon</a> official website.
 
 4.If you face any issue during installation, the Canon printer tech support expert will always there.
 
@@ -45,7 +45,7 @@ Click the Manual Selection option.
 Restart your computer to conclude the canon printer driver installation.
 
 
-<b>How To Print On Mac - ij.start.canon</b>
+<b>How To Print On Mac - <a href="https://startcanonij.github.io/">ij.start.canon</a></b>
 
 
 Firstly, turn on the Canon Printer.
